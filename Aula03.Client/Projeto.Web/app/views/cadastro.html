@@ -1,0 +1,26 @@
+﻿<div class="col-md-4">
+
+    <h4>Cadastro de Clientes</h4>
+    {{titulo}}
+
+    <label>Nome do Cliente:</label>
+    <input type="text" class="form-control"
+           placeholder="Digite aqui" ng-model="model.Nome" />
+    <br />
+
+    <label>Email:</label>
+    <input type="text" class="form-control"
+           placeholder="Digite aqui" ng-model="model.Email" />
+    <br />
+
+    <button class="btn btn-success" ng-click="cadastrar()">
+        Cadastrar Cliente
+    </button>
+
+    <br/><br/>
+
+    <div class="text-primary">
+        {{mensagem}}
+    </div>
+
+</div>

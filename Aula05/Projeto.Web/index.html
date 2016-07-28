@@ -1,0 +1,36 @@
+﻿<!DOCTYPE html>
+<html ng-app="app">
+<head>
+    <title></title>
+
+    <link href="Content/bootstrap.css" rel="stylesheet" />
+    <link href="Content/bootstrap-theme.css" rel="stylesheet" />
+
+    <script src="Scripts/angular.min.js"></script>
+    <script src="Scripts/angular-route.min.js"></script>
+
+    <script src="app/app.js"></script>
+    <script src="app/controllers/home_controller.js"></script>
+    <script src="app/controllers/pesquisa_controller.js"></script>
+    <script src="app/controllers/cadastro_controller.js"></script>
+
+</head>
+<body class="container">
+
+    <div class="well">
+
+        <h2>Projeto Asp.Net MVC WebApi - AngularJS</h2>
+        
+        <ul>
+            <li> <a href="/">Página Inicial</a> </li>
+            <li> <a href="/cadastro">Cadastrar Novo Produto</a> </li>
+            <li> <a href="/pesquisa">Pesquisar Produtos</a> </li>
+        </ul>
+
+    </div>
+
+    <div ng-view>
+    </div>
+
+</body>
+</html>

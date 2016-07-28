@@ -1,0 +1,18 @@
+C:\Users\COTI\Desktop\Aula 03 - Avançado\Aula03\Projeto.Application\bin\Debug\Projeto.Application.dll
+C:\Users\COTI\Desktop\Aula 03 - Avançado\Aula03\Projeto.Application\bin\Debug\Projeto.Application.pdb
+C:\Users\COTI\Desktop\Aula 03 - Avançado\Aula03\Projeto.Application\bin\Debug\Projeto.Domain.dll
+C:\Users\COTI\Desktop\Aula 03 - Avançado\Aula03\Projeto.Application\bin\Debug\Projeto.Entities.dll
+C:\Users\COTI\Desktop\Aula 03 - Avançado\Aula03\Projeto.Application\bin\Debug\Projeto.Domain.pdb
+C:\Users\COTI\Desktop\Aula 03 - Avançado\Aula03\Projeto.Application\bin\Debug\Projeto.Entities.pdb
+C:\Users\COTI\Desktop\Aula 03 - Avançado\Aula03\Projeto.Application\obj\Debug\Projeto.Application.csprojResolveAssemblyReference.cache
+C:\Users\COTI\Desktop\Aula 03 - Avançado\Aula03\Projeto.Application\obj\Debug\Projeto.Application.dll
+C:\Users\COTI\Desktop\Aula 03 - Avançado\Aula03\Projeto.Application\obj\Debug\Projeto.Application.pdb
+C:\Users\hilda.lopes\Documents\Visual Studio 2015\Projects\CotiHelpMe\Aula03\Projeto.Application\bin\Debug\Projeto.Application.dll
+C:\Users\hilda.lopes\Documents\Visual Studio 2015\Projects\CotiHelpMe\Aula03\Projeto.Application\bin\Debug\Projeto.Application.pdb
+C:\Users\hilda.lopes\Documents\Visual Studio 2015\Projects\CotiHelpMe\Aula03\Projeto.Application\bin\Debug\Projeto.Domain.dll
+C:\Users\hilda.lopes\Documents\Visual Studio 2015\Projects\CotiHelpMe\Aula03\Projeto.Application\bin\Debug\Projeto.Entities.dll
+C:\Users\hilda.lopes\Documents\Visual Studio 2015\Projects\CotiHelpMe\Aula03\Projeto.Application\bin\Debug\Projeto.Domain.pdb
+C:\Users\hilda.lopes\Documents\Visual Studio 2015\Projects\CotiHelpMe\Aula03\Projeto.Application\bin\Debug\Projeto.Entities.pdb
+C:\Users\hilda.lopes\Documents\Visual Studio 2015\Projects\CotiHelpMe\Aula03\Projeto.Application\obj\Debug\Projeto.Application.csprojResolveAssemblyReference.cache
+C:\Users\hilda.lopes\Documents\Visual Studio 2015\Projects\CotiHelpMe\Aula03\Projeto.Application\obj\Debug\Projeto.Application.dll
+C:\Users\hilda.lopes\Documents\Visual Studio 2015\Projects\CotiHelpMe\Aula03\Projeto.Application\obj\Debug\Projeto.Application.pdb

@@ -1,0 +1,21 @@
+C:\Users\COTI\Desktop\Aula_16.01.16\Aula02\Projeto.Domain\bin\Debug\Projeto.Domain.dll
+C:\Users\COTI\Desktop\Aula_16.01.16\Aula02\Projeto.Domain\bin\Debug\Projeto.Domain.pdb
+C:\Users\COTI\Desktop\Aula_16.01.16\Aula02\Projeto.Domain\bin\Debug\Projeto.Entities.dll
+C:\Users\COTI\Desktop\Aula_16.01.16\Aula02\Projeto.Domain\bin\Debug\Projeto.Entities.pdb
+C:\Users\COTI\Desktop\Aula_16.01.16\Aula02\Projeto.Domain\obj\Debug\Projeto.Domain.csprojResolveAssemblyReference.cache
+C:\Users\COTI\Desktop\Aula_16.01.16\Aula02\Projeto.Domain\obj\Debug\Projeto.Domain.dll
+C:\Users\COTI\Desktop\Aula_16.01.16\Aula02\Projeto.Domain\obj\Debug\Projeto.Domain.pdb
+C:\Users\COTI\Desktop\Aula 03 - Avançado\Aula03\Projeto.Domain\bin\Debug\Projeto.Domain.dll
+C:\Users\COTI\Desktop\Aula 03 - Avançado\Aula03\Projeto.Domain\bin\Debug\Projeto.Domain.pdb
+C:\Users\COTI\Desktop\Aula 03 - Avançado\Aula03\Projeto.Domain\bin\Debug\Projeto.Entities.dll
+C:\Users\COTI\Desktop\Aula 03 - Avançado\Aula03\Projeto.Domain\bin\Debug\Projeto.Entities.pdb
+C:\Users\COTI\Desktop\Aula 03 - Avançado\Aula03\Projeto.Domain\obj\Debug\Projeto.Domain.csprojResolveAssemblyReference.cache
+C:\Users\COTI\Desktop\Aula 03 - Avançado\Aula03\Projeto.Domain\obj\Debug\Projeto.Domain.dll
+C:\Users\COTI\Desktop\Aula 03 - Avançado\Aula03\Projeto.Domain\obj\Debug\Projeto.Domain.pdb
+C:\Users\hilda.lopes\Documents\Visual Studio 2015\Projects\CotiHelpMe\Aula03\Projeto.Domain\bin\Debug\Projeto.Domain.dll
+C:\Users\hilda.lopes\Documents\Visual Studio 2015\Projects\CotiHelpMe\Aula03\Projeto.Domain\bin\Debug\Projeto.Domain.pdb
+C:\Users\hilda.lopes\Documents\Visual Studio 2015\Projects\CotiHelpMe\Aula03\Projeto.Domain\bin\Debug\Projeto.Entities.dll
+C:\Users\hilda.lopes\Documents\Visual Studio 2015\Projects\CotiHelpMe\Aula03\Projeto.Domain\bin\Debug\Projeto.Entities.pdb
+C:\Users\hilda.lopes\Documents\Visual Studio 2015\Projects\CotiHelpMe\Aula03\Projeto.Domain\obj\Debug\Projeto.Domain.csprojResolveAssemblyReference.cache
+C:\Users\hilda.lopes\Documents\Visual Studio 2015\Projects\CotiHelpMe\Aula03\Projeto.Domain\obj\Debug\Projeto.Domain.dll
+C:\Users\hilda.lopes\Documents\Visual Studio 2015\Projects\CotiHelpMe\Aula03\Projeto.Domain\obj\Debug\Projeto.Domain.pdb

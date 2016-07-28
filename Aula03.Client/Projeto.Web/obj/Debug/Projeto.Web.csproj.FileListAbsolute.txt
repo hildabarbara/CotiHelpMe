@@ -1,0 +1,18 @@
+C:\Users\COTI\Desktop\Aula_09.01.16\Aula01.Client\Projeto.Web\bin\Projeto.Web.dll.config
+C:\Users\COTI\Desktop\Aula_09.01.16\Aula01.Client\Projeto.Web\bin\Projeto.Web.dll
+C:\Users\COTI\Desktop\Aula_09.01.16\Aula01.Client\Projeto.Web\bin\Projeto.Web.pdb
+C:\Users\COTI\Desktop\Aula_09.01.16\Aula01.Client\Projeto.Web\obj\Debug\Projeto.Web.csprojResolveAssemblyReference.cache
+C:\Users\COTI\Desktop\Aula_09.01.16\Aula01.Client\Projeto.Web\obj\Debug\Projeto.Web.dll
+C:\Users\COTI\Desktop\Aula_09.01.16\Aula01.Client\Projeto.Web\obj\Debug\Projeto.Web.pdb
+C:\Users\COTI\Desktop\Aula 03 - Avançado\Aula03.Client\Projeto.Web\bin\Projeto.Web.dll.config
+C:\Users\COTI\Desktop\Aula 03 - Avançado\Aula03.Client\Projeto.Web\bin\Projeto.Web.dll
+C:\Users\COTI\Desktop\Aula 03 - Avançado\Aula03.Client\Projeto.Web\bin\Projeto.Web.pdb
+C:\Users\COTI\Desktop\Aula 03 - Avançado\Aula03.Client\Projeto.Web\obj\Debug\Projeto.Web.csprojResolveAssemblyReference.cache
+C:\Users\COTI\Desktop\Aula 03 - Avançado\Aula03.Client\Projeto.Web\obj\Debug\Projeto.Web.dll
+C:\Users\COTI\Desktop\Aula 03 - Avançado\Aula03.Client\Projeto.Web\obj\Debug\Projeto.Web.pdb
+C:\Users\hilda.lopes\Documents\Visual Studio 2015\Projects\CotiHelpMe\Aula03.Client\Projeto.Web\bin\Projeto.Web.dll.config
+C:\Users\hilda.lopes\Documents\Visual Studio 2015\Projects\CotiHelpMe\Aula03.Client\Projeto.Web\bin\Projeto.Web.dll
+C:\Users\hilda.lopes\Documents\Visual Studio 2015\Projects\CotiHelpMe\Aula03.Client\Projeto.Web\bin\Projeto.Web.pdb
+C:\Users\hilda.lopes\Documents\Visual Studio 2015\Projects\CotiHelpMe\Aula03.Client\Projeto.Web\obj\Debug\Projeto.Web.csprojResolveAssemblyReference.cache
+C:\Users\hilda.lopes\Documents\Visual Studio 2015\Projects\CotiHelpMe\Aula03.Client\Projeto.Web\obj\Debug\Projeto.Web.dll
+C:\Users\hilda.lopes\Documents\Visual Studio 2015\Projects\CotiHelpMe\Aula03.Client\Projeto.Web\obj\Debug\Projeto.Web.pdb

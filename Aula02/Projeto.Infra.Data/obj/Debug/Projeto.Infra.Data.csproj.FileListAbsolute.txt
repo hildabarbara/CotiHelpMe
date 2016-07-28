@@ -1,0 +1,14 @@
+C:\Users\COTI\Desktop\Aula_16.01.16\Aula02\Projeto.Infra.Data\bin\Debug\Projeto.Infra.Data.dll.config
+C:\Users\COTI\Desktop\Aula_16.01.16\Aula02\Projeto.Infra.Data\bin\Debug\Projeto.Infra.Data.dll
+C:\Users\COTI\Desktop\Aula_16.01.16\Aula02\Projeto.Infra.Data\bin\Debug\Projeto.Infra.Data.pdb
+C:\Users\COTI\Desktop\Aula_16.01.16\Aula02\Projeto.Infra.Data\bin\Debug\EntityFramework.dll
+C:\Users\COTI\Desktop\Aula_16.01.16\Aula02\Projeto.Infra.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\COTI\Desktop\Aula_16.01.16\Aula02\Projeto.Infra.Data\bin\Debug\Projeto.Domain.dll
+C:\Users\COTI\Desktop\Aula_16.01.16\Aula02\Projeto.Infra.Data\bin\Debug\Projeto.Entities.dll
+C:\Users\COTI\Desktop\Aula_16.01.16\Aula02\Projeto.Infra.Data\bin\Debug\Projeto.Domain.pdb
+C:\Users\COTI\Desktop\Aula_16.01.16\Aula02\Projeto.Infra.Data\bin\Debug\Projeto.Entities.pdb
+C:\Users\COTI\Desktop\Aula_16.01.16\Aula02\Projeto.Infra.Data\bin\Debug\EntityFramework.xml
+C:\Users\COTI\Desktop\Aula_16.01.16\Aula02\Projeto.Infra.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\COTI\Desktop\Aula_16.01.16\Aula02\Projeto.Infra.Data\obj\Debug\Projeto.Infra.Data.csprojResolveAssemblyReference.cache
+C:\Users\COTI\Desktop\Aula_16.01.16\Aula02\Projeto.Infra.Data\obj\Debug\Projeto.Infra.Data.dll
+C:\Users\COTI\Desktop\Aula_16.01.16\Aula02\Projeto.Infra.Data\obj\Debug\Projeto.Infra.Data.pdb

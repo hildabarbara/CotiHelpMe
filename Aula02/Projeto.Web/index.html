@@ -1,0 +1,121 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+
+    <link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" />
+
+</head>
+<body class="container">
+
+    <h3>Projeto Controle de Clientes</h3>
+    API de Serviços baseados em REST (WebApi)
+    <hr />
+
+    <ul>
+        <li> <strong> POST - /api/cliente/cadastro </strong> </li>
+        <li> Descrição: Cadastrar um novo cliente </li>
+        <li> Tipo de dados: JSON </li>
+        <li>
+            Dados de entrada:
+            <ul>
+                <li> Nome - Texto </li>
+                <li> Email - Texto </li>
+            </ul>
+        </li>
+        <li>
+            Saída HTTP:
+            <ul>
+                <li> 200 - OK (Cliente cadastrado com sucesso) </li>
+                <li> 403 - Erros de validação dos dados </li>
+                <li> 400 - Erro do servidor </li>
+            </ul>
+        </li>
+    </ul>
+
+    <hr />
+
+    <ul>
+        <li> <strong> PUT - /api/cliente/editar </strong> </li>
+        <li> Descrição: Editar dados de um cliente </li>
+        <li> Tipo de dados: JSON </li>
+        <li>
+            Dados de entrada:
+            <ul>
+                <li> ClienteID - Inteiro </li>
+                <li> Nome - Texto </li>
+                <li> Email - Texto </li>
+            </ul>
+        </li>
+        <li>
+            Saída HTTP:
+            <ul>
+                <li> 200 - OK (Cliente atualizado com sucesso) </li>
+                <li> 403 - Erros de validação dos dados / cliente não encontrado </li>
+                <li> 400 - Erro do servidor </li>
+            </ul>
+        </li>
+    </ul>
+
+    <hr />
+
+    <ul>
+        <li> <strong> DELETE - /api/cliente/excluir </strong> </li>
+        <li> Descrição: Excluir um cliente </li>
+        <li> Tipo de dados: JSON </li>
+        <li>
+            Dados de entrada:
+            <ul>
+                <li> ClienteID - Inteiro </li>
+            </ul>
+        </li>
+        <li>
+            Saída HTTP:
+            <ul>
+                <li> 200 - OK (Cliente excluido com sucesso) </li>
+                <li> 403 - Cliente não encontrado </li>
+                <li> 400 - Erro do servidor </li>
+            </ul>
+        </li>
+    </ul>
+
+    <hr />
+
+    <ul>
+        <li> <strong> GET - /api/cliente/obter </strong> </li>
+        <li> Descrição: Obter dados de 1 Cliente </li>
+        <li> Tipo de dados: JSON </li>
+        <li>
+            Dados de entrada:
+            <ul>
+                <li> ClienteID - Inteiro </li>
+            </ul>
+        </li>
+        <li>
+            Saída HTTP:
+            <ul>
+                <li> 200 - OK (Objeto contendo os dados do Cliente) </li>
+                <li> 403 - Cliente não encontrado </li>
+                <li> 400 - Erro do servidor </li>
+            </ul>
+        </li>
+    </ul>
+
+    <hr />
+
+    <ul>
+        <li> <strong> GET - /api/cliente/listar </strong> </li>
+        <li> Descrição: Listar todos os Clientes </li>
+        <li> Tipo de dados: JSON </li>
+        <li>
+            Saída HTTP:
+            <ul>
+                <li> 200 - OK (Lista de objetos contendo os dados dos Clientes) </li>
+                <li> 403 - Nenhum Cliente encontrado </li>
+                <li> 400 - Erro do servidor </li>
+            </ul>
+        </li>
+    </ul>
+
+</body>
+</html>

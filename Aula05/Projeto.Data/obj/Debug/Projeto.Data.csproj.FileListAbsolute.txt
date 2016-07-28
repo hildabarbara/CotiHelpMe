@@ -1,0 +1,36 @@
+C:\Users\COTI\Desktop\Aula04\Projeto.Data\bin\Debug\Projeto.Data.dll
+C:\Users\COTI\Desktop\Aula04\Projeto.Data\bin\Debug\Projeto.Data.pdb
+C:\Users\COTI\Desktop\Aula04\Projeto.Data\bin\Debug\FluentNHibernate.dll
+C:\Users\COTI\Desktop\Aula04\Projeto.Data\bin\Debug\Iesi.Collections.dll
+C:\Users\COTI\Desktop\Aula04\Projeto.Data\bin\Debug\NHibernate.dll
+C:\Users\COTI\Desktop\Aula04\Projeto.Data\bin\Debug\FluentNHibernate.pdb
+C:\Users\COTI\Desktop\Aula04\Projeto.Data\bin\Debug\FluentNHibernate.xml
+C:\Users\COTI\Desktop\Aula04\Projeto.Data\bin\Debug\Iesi.Collections.xml
+C:\Users\COTI\Desktop\Aula04\Projeto.Data\bin\Debug\NHibernate.xml
+C:\Users\COTI\Desktop\Aula04\Projeto.Data\obj\Debug\Projeto.Data.csprojResolveAssemblyReference.cache
+C:\Users\COTI\Desktop\Aula04\Projeto.Data\obj\Debug\Projeto.Data.dll
+C:\Users\COTI\Desktop\Aula04\Projeto.Data\obj\Debug\Projeto.Data.pdb
+C:\Users\COTI\Desktop\_Aula_22.05.15\Aula05\Projeto.Data\bin\Debug\Projeto.Data.dll
+C:\Users\COTI\Desktop\_Aula_22.05.15\Aula05\Projeto.Data\bin\Debug\Projeto.Data.pdb
+C:\Users\COTI\Desktop\_Aula_22.05.15\Aula05\Projeto.Data\bin\Debug\FluentNHibernate.dll
+C:\Users\COTI\Desktop\_Aula_22.05.15\Aula05\Projeto.Data\bin\Debug\Iesi.Collections.dll
+C:\Users\COTI\Desktop\_Aula_22.05.15\Aula05\Projeto.Data\bin\Debug\NHibernate.dll
+C:\Users\COTI\Desktop\_Aula_22.05.15\Aula05\Projeto.Data\bin\Debug\FluentNHibernate.pdb
+C:\Users\COTI\Desktop\_Aula_22.05.15\Aula05\Projeto.Data\bin\Debug\FluentNHibernate.xml
+C:\Users\COTI\Desktop\_Aula_22.05.15\Aula05\Projeto.Data\bin\Debug\Iesi.Collections.xml
+C:\Users\COTI\Desktop\_Aula_22.05.15\Aula05\Projeto.Data\bin\Debug\NHibernate.xml
+C:\Users\COTI\Desktop\_Aula_22.05.15\Aula05\Projeto.Data\obj\Debug\Projeto.Data.csprojResolveAssemblyReference.cache
+C:\Users\COTI\Desktop\_Aula_22.05.15\Aula05\Projeto.Data\obj\Debug\Projeto.Data.dll
+C:\Users\COTI\Desktop\_Aula_22.05.15\Aula05\Projeto.Data\obj\Debug\Projeto.Data.pdb
+C:\Users\hilda.lopes\Documents\Visual Studio 2015\Projects\CotiHelpMe\Aula05\Projeto.Data\bin\Debug\Projeto.Data.dll
+C:\Users\hilda.lopes\Documents\Visual Studio 2015\Projects\CotiHelpMe\Aula05\Projeto.Data\bin\Debug\Projeto.Data.pdb
+C:\Users\hilda.lopes\Documents\Visual Studio 2015\Projects\CotiHelpMe\Aula05\Projeto.Data\bin\Debug\FluentNHibernate.dll
+C:\Users\hilda.lopes\Documents\Visual Studio 2015\Projects\CotiHelpMe\Aula05\Projeto.Data\bin\Debug\Iesi.Collections.dll
+C:\Users\hilda.lopes\Documents\Visual Studio 2015\Projects\CotiHelpMe\Aula05\Projeto.Data\bin\Debug\NHibernate.dll
+C:\Users\hilda.lopes\Documents\Visual Studio 2015\Projects\CotiHelpMe\Aula05\Projeto.Data\bin\Debug\FluentNHibernate.pdb
+C:\Users\hilda.lopes\Documents\Visual Studio 2015\Projects\CotiHelpMe\Aula05\Projeto.Data\bin\Debug\FluentNHibernate.xml
+C:\Users\hilda.lopes\Documents\Visual Studio 2015\Projects\CotiHelpMe\Aula05\Projeto.Data\bin\Debug\Iesi.Collections.xml
+C:\Users\hilda.lopes\Documents\Visual Studio 2015\Projects\CotiHelpMe\Aula05\Projeto.Data\bin\Debug\NHibernate.xml
+C:\Users\hilda.lopes\Documents\Visual Studio 2015\Projects\CotiHelpMe\Aula05\Projeto.Data\obj\Debug\Projeto.Data.csprojResolveAssemblyReference.cache
+C:\Users\hilda.lopes\Documents\Visual Studio 2015\Projects\CotiHelpMe\Aula05\Projeto.Data\obj\Debug\Projeto.Data.dll
+C:\Users\hilda.lopes\Documents\Visual Studio 2015\Projects\CotiHelpMe\Aula05\Projeto.Data\obj\Debug\Projeto.Data.pdb

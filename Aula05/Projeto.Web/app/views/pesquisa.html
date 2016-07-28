@@ -1,0 +1,60 @@
+﻿<div>
+
+    <h4>Pesquisa de Produtos</h4>
+    <hr />
+
+    <div class="col-md-6">
+
+        <label>Nome do Produto:</label>
+        <input type="text" id="nome" class="form-control"
+            placeholder="Digite o nome do produto desejado"
+            ng-model="Model.Nome" />
+        <br />
+
+        <button class="btn btn-primary" ng-click="pesquisar()">
+            Pesquisar Produtos
+        </button>
+
+    </div>
+    
+    <h4>{{mensagem}}</h4>
+
+    <div>
+        
+        <table class="table table-hover">
+            <thead>
+                <tr>
+                    <th>Código</th>
+                    <th>Nome do Produto</th>
+                    <th>Preço</th>
+                    <th>Quantidade</th>
+                    <th>Total</th>
+                    <th>Data de Compra</th>
+                    <th>Operações</th>
+                </tr>
+            </thead>
+            <tbody>
+
+                <tr ng-repeat="p in produtos">
+
+                    <td>{{p.IdProduto}}</td>
+                    <td>{{p.Nome}}</td>
+                    <td>{{p.Preco | currency : 'R$'}}</td>
+                    <td>{{p.Quantidade}}</td>
+                    <td>{{ (p.Preco * p.Quantidade) | currency : 'R$' }}</td>
+                    <td>{{p.DataCompra | date : 'dd/MM/yyyy'}}</td>
+                    <td>
+                        <button class="btn btn-danger btn-sm" ng-click="excluir(p.IdProduto)">
+                            Excluir Produto
+                        </button>
+                    </td>
+                </tr>
+
+            </tbody>
+            <tfoot>
+
+            </tfoot>
+        </table>
+    </div>
+
+</div>

@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Projeto.Domain.Services.DomainServiceBase&lt;TEntity&gt;">
+    <Position X="0.75" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAgQAAAECAAAAAAAAAAAAAAAAAAgAIAAAAA=</HashCode>
+      <FileName>Services\DomainServiceBase.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="repositorio" />
+    </ShowAsAssociation>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Projeto.Domain.Services.DomainServiceCliente">
+    <Position X="0.75" Y="4" Width="2" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Services\DomainServiceCliente.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="repositorio" />
+    </ShowAsAssociation>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Interface Name="Projeto.Domain.Contracts.Repository.IRepositoryBase&lt;TEntity&gt;">
+    <Position X="4.25" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAQAAEAAAAAAAAAAAAAQAAAAAAEBAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Contracts\Repository\IRepositoryBase.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Projeto.Domain.Contracts.Repository.IRepositoryCliente">
+    <Position X="4.25" Y="3" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Contracts\Repository\IRepositoryCliente.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Projeto.Domain.Contracts.Services.IDomainServiceBase&lt;TEntity&gt;">
+    <Position X="7" Y="0.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAgAAAAECAAAAAAAAAAAAAAAAAAgAIAAAAA=</HashCode>
+      <FileName>Contracts\Services\IDomainServiceBase.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Projeto.Domain.Contracts.Services.IDomainServiceCliente">
+    <Position X="7" Y="3" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Contracts\Services\IDomainServiceCliente.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

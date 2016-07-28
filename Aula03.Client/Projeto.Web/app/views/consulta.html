@@ -1,0 +1,92 @@
+﻿<div>
+
+    <h4>Consulta de Clientes</h4>
+    {{titulo}}
+    <hr/>
+
+    <div>
+        {{mensagem}}
+    </div>
+
+    Pesquisa de Clientes: 
+    <input type="text" ng-model="pesquisa" placeholder="Digite aqui"/>
+
+    <table class="table" ng-init="consultar()">
+        <thead>
+            <tr>
+                <th>Código</th>
+                <th>Nome do Cliente</th>
+                <th>Email</th>
+                <th>Data de Cadastro</th>
+                <th>Operações</th>
+            </tr>
+        </thead>
+        <tbody>
+
+            <tr ng-repeat="c in clientes | filter : pesquisa">
+                <td>{{c.ClienteID}}</td>
+                <td>{{c.Nome}}</td>
+                <td>{{c.Email}}</td>
+                <td>{{c.DataCadastro | date : 'dd/MM/yyyy'}}</td>
+                <td>
+
+                    <button class="btn btn-danger btn-sm"
+                            ng-click="excluir(c.ClienteID)">
+                        Excluir
+                    </button>
+
+                    <button class="btn btn-primary btn-sm"
+                            data-target="#janela" 
+                            data-toggle="modal"
+                            ng-click="exibir(c.ClienteID)">
+                        Atualizar
+                    </button>
+
+                </td>
+            </tr>
+
+        </tbody>
+        <tfoot>
+            <tr>
+                <td colspan="5">Quantidade de Clientes: {{(clientes | filter: pesquisa).length}} </td>
+            </tr>
+        </tfoot>
+    </table>
+
+</div>
+
+
+<!-- JANELA MODAL -->
+<div id="janela" class="modal fade">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header btn-primary">
+                <h3>Editar dados do Cliente</h3>
+            </div>
+            <div class="modal-body">
+
+                <label>Código do Cliente:</label>
+                <input type="text" ng-model="model.ClienteID" 
+                       class="form-control" readonly/>
+                <br/>
+
+                <label>Nome do Cliente:</label>
+                <input type="text" ng-model="model.Nome"
+                       class="form-control"/>
+                <br />
+
+                <label>Endereço de Email:</label>
+                <input type="text" ng-model="model.Email"
+                       class="form-control" />
+                <br />
+
+            </div>
+            <div class="modal-footer">
+                <button class="btn btn-primary" data-dismiss="modal"
+                        ng-click="atualizar()">
+                    Atualizar Dados
+                </button>
+            </div>
+        </div>
+    </div>
+</div>

@@ -1,0 +1,72 @@
+C:\Users\COTI\Desktop\Aula 03 - Avançado\Aula03\Projeto.Web\bin\Projeto.Web.dll.config
+C:\Users\COTI\Desktop\Aula 03 - Avançado\Aula03\Projeto.Web\bin\Projeto.Web.dll
+C:\Users\COTI\Desktop\Aula 03 - Avançado\Aula03\Projeto.Web\bin\Projeto.Web.pdb
+C:\Users\COTI\Desktop\Aula 03 - Avançado\Aula03\Projeto.Web\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\COTI\Desktop\Aula 03 - Avançado\Aula03\Projeto.Web\bin\Newtonsoft.Json.dll
+C:\Users\COTI\Desktop\Aula 03 - Avançado\Aula03\Projeto.Web\bin\Ninject.dll
+C:\Users\COTI\Desktop\Aula 03 - Avançado\Aula03\Projeto.Web\bin\Ninject.Web.Common.dll
+C:\Users\COTI\Desktop\Aula 03 - Avançado\Aula03\Projeto.Web\bin\Ninject.Web.WebApi.dll
+C:\Users\COTI\Desktop\Aula 03 - Avançado\Aula03\Projeto.Web\bin\Projeto.Application.dll
+C:\Users\COTI\Desktop\Aula 03 - Avançado\Aula03\Projeto.Web\bin\Projeto.Domain.dll
+C:\Users\COTI\Desktop\Aula 03 - Avançado\Aula03\Projeto.Web\bin\Projeto.Entities.dll
+C:\Users\COTI\Desktop\Aula 03 - Avançado\Aula03\Projeto.Web\bin\Projeto.Infra.Data.dll
+C:\Users\COTI\Desktop\Aula 03 - Avançado\Aula03\Projeto.Web\bin\System.Net.Http.Formatting.dll
+C:\Users\COTI\Desktop\Aula 03 - Avançado\Aula03\Projeto.Web\bin\System.Web.Http.dll
+C:\Users\COTI\Desktop\Aula 03 - Avançado\Aula03\Projeto.Web\bin\System.Web.Http.WebHost.dll
+C:\Users\COTI\Desktop\Aula 03 - Avançado\Aula03\Projeto.Web\bin\WebActivatorEx.dll
+C:\Users\COTI\Desktop\Aula 03 - Avançado\Aula03\Projeto.Web\bin\EntityFramework.dll
+C:\Users\COTI\Desktop\Aula 03 - Avançado\Aula03\Projeto.Web\bin\Projeto.Application.pdb
+C:\Users\COTI\Desktop\Aula 03 - Avançado\Aula03\Projeto.Web\bin\Projeto.Domain.pdb
+C:\Users\COTI\Desktop\Aula 03 - Avançado\Aula03\Projeto.Web\bin\Projeto.Entities.pdb
+C:\Users\COTI\Desktop\Aula 03 - Avançado\Aula03\Projeto.Web\bin\Projeto.Infra.Data.pdb
+C:\Users\COTI\Desktop\Aula 03 - Avançado\Aula03\Projeto.Web\bin\Ninject.xml
+C:\Users\COTI\Desktop\Aula 03 - Avançado\Aula03\Projeto.Web\bin\Ninject.Web.Common.xml
+C:\Users\COTI\Desktop\Aula 03 - Avançado\Aula03\Projeto.Web\bin\Ninject.Web.WebApi.xml
+C:\Users\COTI\Desktop\Aula 03 - Avançado\Aula03\Projeto.Web\bin\Newtonsoft.Json.xml
+C:\Users\COTI\Desktop\Aula 03 - Avançado\Aula03\Projeto.Web\bin\System.Net.Http.Formatting.xml
+C:\Users\COTI\Desktop\Aula 03 - Avançado\Aula03\Projeto.Web\bin\System.Web.Http.xml
+C:\Users\COTI\Desktop\Aula 03 - Avançado\Aula03\Projeto.Web\bin\System.Web.Http.WebHost.xml
+C:\Users\COTI\Desktop\Aula 03 - Avançado\Aula03\Projeto.Web\bin\EntityFramework.xml
+C:\Users\COTI\Desktop\Aula 03 - Avançado\Aula03\Projeto.Web\obj\Debug\Projeto.Web.csprojResolveAssemblyReference.cache
+C:\Users\COTI\Desktop\Aula 03 - Avançado\Aula03\Projeto.Web\obj\Debug\Projeto.Web.dll
+C:\Users\COTI\Desktop\Aula 03 - Avançado\Aula03\Projeto.Web\obj\Debug\Projeto.Web.pdb
+C:\Users\COTI\Desktop\Aula 03 - Avançado\Aula03\Projeto.Web\bin\EntityFramework.SqlServer.dll
+C:\Users\COTI\Desktop\Aula 03 - Avançado\Aula03\Projeto.Web\bin\EntityFramework.SqlServer.xml
+C:\Users\COTI\Desktop\Aula 03 - Avançado\Aula03\Projeto.Web\bin\Ninject.Web.Mvc.dll
+C:\Users\COTI\Desktop\Aula 03 - Avançado\Aula03\Projeto.Web\bin\Ninject.Web.Mvc.xml
+C:\Users\hilda.lopes\Documents\Visual Studio 2015\Projects\CotiHelpMe\Aula03\Projeto.Web\bin\Projeto.Web.dll.config
+C:\Users\hilda.lopes\Documents\Visual Studio 2015\Projects\CotiHelpMe\Aula03\Projeto.Web\bin\Projeto.Web.dll
+C:\Users\hilda.lopes\Documents\Visual Studio 2015\Projects\CotiHelpMe\Aula03\Projeto.Web\bin\Projeto.Web.pdb
+C:\Users\hilda.lopes\Documents\Visual Studio 2015\Projects\CotiHelpMe\Aula03\Projeto.Web\bin\EntityFramework.dll
+C:\Users\hilda.lopes\Documents\Visual Studio 2015\Projects\CotiHelpMe\Aula03\Projeto.Web\bin\EntityFramework.SqlServer.dll
+C:\Users\hilda.lopes\Documents\Visual Studio 2015\Projects\CotiHelpMe\Aula03\Projeto.Web\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\hilda.lopes\Documents\Visual Studio 2015\Projects\CotiHelpMe\Aula03\Projeto.Web\bin\Newtonsoft.Json.dll
+C:\Users\hilda.lopes\Documents\Visual Studio 2015\Projects\CotiHelpMe\Aula03\Projeto.Web\bin\Ninject.dll
+C:\Users\hilda.lopes\Documents\Visual Studio 2015\Projects\CotiHelpMe\Aula03\Projeto.Web\bin\Ninject.Web.Common.dll
+C:\Users\hilda.lopes\Documents\Visual Studio 2015\Projects\CotiHelpMe\Aula03\Projeto.Web\bin\Ninject.Web.Mvc.dll
+C:\Users\hilda.lopes\Documents\Visual Studio 2015\Projects\CotiHelpMe\Aula03\Projeto.Web\bin\Ninject.Web.WebApi.dll
+C:\Users\hilda.lopes\Documents\Visual Studio 2015\Projects\CotiHelpMe\Aula03\Projeto.Web\bin\Projeto.Application.dll
+C:\Users\hilda.lopes\Documents\Visual Studio 2015\Projects\CotiHelpMe\Aula03\Projeto.Web\bin\Projeto.Domain.dll
+C:\Users\hilda.lopes\Documents\Visual Studio 2015\Projects\CotiHelpMe\Aula03\Projeto.Web\bin\Projeto.Entities.dll
+C:\Users\hilda.lopes\Documents\Visual Studio 2015\Projects\CotiHelpMe\Aula03\Projeto.Web\bin\Projeto.Infra.Data.dll
+C:\Users\hilda.lopes\Documents\Visual Studio 2015\Projects\CotiHelpMe\Aula03\Projeto.Web\bin\System.Net.Http.Formatting.dll
+C:\Users\hilda.lopes\Documents\Visual Studio 2015\Projects\CotiHelpMe\Aula03\Projeto.Web\bin\System.Web.Http.dll
+C:\Users\hilda.lopes\Documents\Visual Studio 2015\Projects\CotiHelpMe\Aula03\Projeto.Web\bin\System.Web.Http.WebHost.dll
+C:\Users\hilda.lopes\Documents\Visual Studio 2015\Projects\CotiHelpMe\Aula03\Projeto.Web\bin\WebActivatorEx.dll
+C:\Users\hilda.lopes\Documents\Visual Studio 2015\Projects\CotiHelpMe\Aula03\Projeto.Web\bin\Projeto.Application.pdb
+C:\Users\hilda.lopes\Documents\Visual Studio 2015\Projects\CotiHelpMe\Aula03\Projeto.Web\bin\Projeto.Domain.pdb
+C:\Users\hilda.lopes\Documents\Visual Studio 2015\Projects\CotiHelpMe\Aula03\Projeto.Web\bin\Projeto.Entities.pdb
+C:\Users\hilda.lopes\Documents\Visual Studio 2015\Projects\CotiHelpMe\Aula03\Projeto.Web\bin\Projeto.Infra.Data.pdb
+C:\Users\hilda.lopes\Documents\Visual Studio 2015\Projects\CotiHelpMe\Aula03\Projeto.Web\bin\EntityFramework.xml
+C:\Users\hilda.lopes\Documents\Visual Studio 2015\Projects\CotiHelpMe\Aula03\Projeto.Web\bin\EntityFramework.SqlServer.xml
+C:\Users\hilda.lopes\Documents\Visual Studio 2015\Projects\CotiHelpMe\Aula03\Projeto.Web\bin\Ninject.xml
+C:\Users\hilda.lopes\Documents\Visual Studio 2015\Projects\CotiHelpMe\Aula03\Projeto.Web\bin\Ninject.Web.Common.xml
+C:\Users\hilda.lopes\Documents\Visual Studio 2015\Projects\CotiHelpMe\Aula03\Projeto.Web\bin\Ninject.Web.Mvc.xml
+C:\Users\hilda.lopes\Documents\Visual Studio 2015\Projects\CotiHelpMe\Aula03\Projeto.Web\bin\Ninject.Web.WebApi.xml
+C:\Users\hilda.lopes\Documents\Visual Studio 2015\Projects\CotiHelpMe\Aula03\Projeto.Web\bin\Newtonsoft.Json.xml
+C:\Users\hilda.lopes\Documents\Visual Studio 2015\Projects\CotiHelpMe\Aula03\Projeto.Web\bin\System.Net.Http.Formatting.xml
+C:\Users\hilda.lopes\Documents\Visual Studio 2015\Projects\CotiHelpMe\Aula03\Projeto.Web\bin\System.Web.Http.xml
+C:\Users\hilda.lopes\Documents\Visual Studio 2015\Projects\CotiHelpMe\Aula03\Projeto.Web\bin\System.Web.Http.WebHost.xml
+C:\Users\hilda.lopes\Documents\Visual Studio 2015\Projects\CotiHelpMe\Aula03\Projeto.Web\obj\Debug\Projeto.Web.csprojResolveAssemblyReference.cache
+C:\Users\hilda.lopes\Documents\Visual Studio 2015\Projects\CotiHelpMe\Aula03\Projeto.Web\obj\Debug\Projeto.Web.dll
+C:\Users\hilda.lopes\Documents\Visual Studio 2015\Projects\CotiHelpMe\Aula03\Projeto.Web\obj\Debug\Projeto.Web.pdb

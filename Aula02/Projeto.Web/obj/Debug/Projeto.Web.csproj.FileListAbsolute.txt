@@ -1,0 +1,59 @@
+C:\Users\COTI\Desktop\Aula_09.01.16\Aula01\Projeto.Web\bin\Projeto.Web.dll.config
+C:\Users\COTI\Desktop\Aula_09.01.16\Aula01\Projeto.Web\bin\Projeto.Web.dll
+C:\Users\COTI\Desktop\Aula_09.01.16\Aula01\Projeto.Web\bin\Projeto.Web.pdb
+C:\Users\COTI\Desktop\Aula_09.01.16\Aula01\Projeto.Web\bin\Newtonsoft.Json.dll
+C:\Users\COTI\Desktop\Aula_09.01.16\Aula01\Projeto.Web\bin\System.Net.Http.Formatting.dll
+C:\Users\COTI\Desktop\Aula_09.01.16\Aula01\Projeto.Web\bin\System.Web.Http.dll
+C:\Users\COTI\Desktop\Aula_09.01.16\Aula01\Projeto.Web\bin\System.Web.Http.WebHost.dll
+C:\Users\COTI\Desktop\Aula_09.01.16\Aula01\Projeto.Web\bin\Newtonsoft.Json.xml
+C:\Users\COTI\Desktop\Aula_09.01.16\Aula01\Projeto.Web\bin\System.Net.Http.Formatting.xml
+C:\Users\COTI\Desktop\Aula_09.01.16\Aula01\Projeto.Web\bin\System.Web.Http.xml
+C:\Users\COTI\Desktop\Aula_09.01.16\Aula01\Projeto.Web\bin\System.Web.Http.WebHost.xml
+C:\Users\COTI\Desktop\Aula_09.01.16\Aula01\Projeto.Web\obj\Debug\Projeto.Web.csprojResolveAssemblyReference.cache
+C:\Users\COTI\Desktop\Aula_09.01.16\Aula01\Projeto.Web\obj\Debug\Projeto.Web.dll
+C:\Users\COTI\Desktop\Aula_09.01.16\Aula01\Projeto.Web\obj\Debug\Projeto.Web.pdb
+C:\Users\COTI\Desktop\Aula_09.01.16\Aula01\Projeto.Web\bin\System.Web.Cors.dll
+C:\Users\COTI\Desktop\Aula_09.01.16\Aula01\Projeto.Web\bin\System.Web.Http.Cors.dll
+C:\Users\COTI\Desktop\Aula_09.01.16\Aula01\Projeto.Web\bin\System.Web.Http.Cors.xml
+C:\Users\COTI\Desktop\Aula_16.01.16\Aula02\Projeto.Web\bin\Projeto.Web.dll.config
+C:\Users\COTI\Desktop\Aula_16.01.16\Aula02\Projeto.Web\bin\Projeto.Web.dll
+C:\Users\COTI\Desktop\Aula_16.01.16\Aula02\Projeto.Web\bin\Projeto.Web.pdb
+C:\Users\COTI\Desktop\Aula_16.01.16\Aula02\Projeto.Web\bin\EntityFramework.dll
+C:\Users\COTI\Desktop\Aula_16.01.16\Aula02\Projeto.Web\bin\EntityFramework.SqlServer.dll
+C:\Users\COTI\Desktop\Aula_16.01.16\Aula02\Projeto.Web\bin\Newtonsoft.Json.dll
+C:\Users\COTI\Desktop\Aula_16.01.16\Aula02\Projeto.Web\bin\System.Net.Http.Formatting.dll
+C:\Users\COTI\Desktop\Aula_16.01.16\Aula02\Projeto.Web\bin\System.Web.Cors.dll
+C:\Users\COTI\Desktop\Aula_16.01.16\Aula02\Projeto.Web\bin\System.Web.Http.Cors.dll
+C:\Users\COTI\Desktop\Aula_16.01.16\Aula02\Projeto.Web\bin\System.Web.Http.dll
+C:\Users\COTI\Desktop\Aula_16.01.16\Aula02\Projeto.Web\bin\System.Web.Http.WebHost.dll
+C:\Users\COTI\Desktop\Aula_16.01.16\Aula02\Projeto.Web\bin\EntityFramework.xml
+C:\Users\COTI\Desktop\Aula_16.01.16\Aula02\Projeto.Web\bin\EntityFramework.SqlServer.xml
+C:\Users\COTI\Desktop\Aula_16.01.16\Aula02\Projeto.Web\bin\Newtonsoft.Json.xml
+C:\Users\COTI\Desktop\Aula_16.01.16\Aula02\Projeto.Web\bin\System.Net.Http.Formatting.xml
+C:\Users\COTI\Desktop\Aula_16.01.16\Aula02\Projeto.Web\bin\System.Web.Http.xml
+C:\Users\COTI\Desktop\Aula_16.01.16\Aula02\Projeto.Web\bin\System.Web.Http.Cors.xml
+C:\Users\COTI\Desktop\Aula_16.01.16\Aula02\Projeto.Web\bin\System.Web.Http.WebHost.xml
+C:\Users\COTI\Desktop\Aula_16.01.16\Aula02\Projeto.Web\obj\Debug\Projeto.Web.csprojResolveAssemblyReference.cache
+C:\Users\COTI\Desktop\Aula_16.01.16\Aula02\Projeto.Web\obj\Debug\Projeto.Web.dll
+C:\Users\COTI\Desktop\Aula_16.01.16\Aula02\Projeto.Web\obj\Debug\Projeto.Web.pdb
+C:\Users\hilda.lopes\Documents\Visual Studio 2015\Projects\CotiHelpMe\Aula02\Projeto.Web\bin\Projeto.Web.dll.config
+C:\Users\hilda.lopes\Documents\Visual Studio 2015\Projects\CotiHelpMe\Aula02\Projeto.Web\bin\Projeto.Web.dll
+C:\Users\hilda.lopes\Documents\Visual Studio 2015\Projects\CotiHelpMe\Aula02\Projeto.Web\bin\Projeto.Web.pdb
+C:\Users\hilda.lopes\Documents\Visual Studio 2015\Projects\CotiHelpMe\Aula02\Projeto.Web\bin\EntityFramework.dll
+C:\Users\hilda.lopes\Documents\Visual Studio 2015\Projects\CotiHelpMe\Aula02\Projeto.Web\bin\EntityFramework.SqlServer.dll
+C:\Users\hilda.lopes\Documents\Visual Studio 2015\Projects\CotiHelpMe\Aula02\Projeto.Web\bin\Newtonsoft.Json.dll
+C:\Users\hilda.lopes\Documents\Visual Studio 2015\Projects\CotiHelpMe\Aula02\Projeto.Web\bin\System.Net.Http.Formatting.dll
+C:\Users\hilda.lopes\Documents\Visual Studio 2015\Projects\CotiHelpMe\Aula02\Projeto.Web\bin\System.Web.Cors.dll
+C:\Users\hilda.lopes\Documents\Visual Studio 2015\Projects\CotiHelpMe\Aula02\Projeto.Web\bin\System.Web.Http.Cors.dll
+C:\Users\hilda.lopes\Documents\Visual Studio 2015\Projects\CotiHelpMe\Aula02\Projeto.Web\bin\System.Web.Http.dll
+C:\Users\hilda.lopes\Documents\Visual Studio 2015\Projects\CotiHelpMe\Aula02\Projeto.Web\bin\System.Web.Http.WebHost.dll
+C:\Users\hilda.lopes\Documents\Visual Studio 2015\Projects\CotiHelpMe\Aula02\Projeto.Web\bin\EntityFramework.xml
+C:\Users\hilda.lopes\Documents\Visual Studio 2015\Projects\CotiHelpMe\Aula02\Projeto.Web\bin\EntityFramework.SqlServer.xml
+C:\Users\hilda.lopes\Documents\Visual Studio 2015\Projects\CotiHelpMe\Aula02\Projeto.Web\bin\Newtonsoft.Json.xml
+C:\Users\hilda.lopes\Documents\Visual Studio 2015\Projects\CotiHelpMe\Aula02\Projeto.Web\bin\System.Net.Http.Formatting.xml
+C:\Users\hilda.lopes\Documents\Visual Studio 2015\Projects\CotiHelpMe\Aula02\Projeto.Web\bin\System.Web.Http.xml
+C:\Users\hilda.lopes\Documents\Visual Studio 2015\Projects\CotiHelpMe\Aula02\Projeto.Web\bin\System.Web.Http.Cors.xml
+C:\Users\hilda.lopes\Documents\Visual Studio 2015\Projects\CotiHelpMe\Aula02\Projeto.Web\bin\System.Web.Http.WebHost.xml
+C:\Users\hilda.lopes\Documents\Visual Studio 2015\Projects\CotiHelpMe\Aula02\Projeto.Web\obj\Debug\Projeto.Web.csprojResolveAssemblyReference.cache
+C:\Users\hilda.lopes\Documents\Visual Studio 2015\Projects\CotiHelpMe\Aula02\Projeto.Web\obj\Debug\Projeto.Web.dll
+C:\Users\hilda.lopes\Documents\Visual Studio 2015\Projects\CotiHelpMe\Aula02\Projeto.Web\obj\Debug\Projeto.Web.pdb
